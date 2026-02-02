@@ -19,5 +19,5 @@
 #
 ---
   include:
-    - board: promicro_nrf52840
+    - board: nrfmicro_13
       shield: yoni_kb
