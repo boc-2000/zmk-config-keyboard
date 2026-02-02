@@ -19,5 +19,5 @@
 #
 ---
   include:
-    - board: nrf52840
+    - board: nrf21540dk_nrf52840
       shield: yoni_kb
